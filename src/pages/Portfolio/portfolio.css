@@ -1,0 +1,18 @@
+.card-header{
+  color: maroon;
+}
+
+.card-body{
+  background-color: mediumaquamarine;
+  color: black;
+}
+
+.entire-card{
+  
+  margin-bottom: 5%;
+  
+
+}
+#top-card {
+  margin-top: 3%;
+}

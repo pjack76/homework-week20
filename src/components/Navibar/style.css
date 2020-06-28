@@ -1,0 +1,20 @@
+.navigator {
+  background-color: red;
+  margin-bottom: 10%;
+}
+
+
+#span1 {
+  font-size: 72px;
+  font-family: Brush Script MT;
+  color: goldenrod;
+
+}
+
+.aTag{
+  color: violet;
+  float: right;
+  margin-right: 10px;
+  font-weight: bolder;
+  margin-left: 10%;
+}
